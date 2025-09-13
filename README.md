@@ -6,9 +6,9 @@ Two compact **PySpark** notebooks that turn CSVs into evaluated ML models with r
 Contents
 --------
 
-*   01-housing-price-prediction.ipynb – KC housing → numeric features → **LinearRegression** → prints **MAE/RMSE/R²**.
+*   housing-price-prediction.ipynb – KC housing → numeric features → **LinearRegression** → prints **MAE/RMSE/R²**.
     
-*   02-loan-prediction-classification.ipynb – Loan data → median imputation + OHE → **DecisionTree** → prints **Accuracy/ROC-AUC**.
+*   loan-prediction-classification.ipynb – Loan data → median imputation + OHE → **DecisionTree** → prints **Accuracy/ROC-AUC**.
 
 
 Data 
